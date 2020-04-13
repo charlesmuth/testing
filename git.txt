@@ -1,7 +1,25 @@
-git test ignore
 
-git test ignore
-git test ignore
-git test ignore
+git config --global user.name "<your name>"
 
-git test ignore
+git config --global user.email "<your e-mail>"
+
+git clone <URL>
+
+git remote
+
+git remote -v
+
+start notepad example.txt
+
+git status
+
+git add example.txt
+
+git commit -m "First example"
+
+git push
+
+git add .
+
+git commit -m "Second update"
+
